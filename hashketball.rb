@@ -171,6 +171,9 @@ def shoe_size(player_to_find)
 
 end
 
+"Brook Lopez"
+binding.pry 
+
 def team_colors(team_name)
   #game_hash.each do |location, team_info|
     #if team_info[:team_name] == team_name_to_find
@@ -210,11 +213,11 @@ end
 end
 
 def big_shoe_rebounds
-  get_all_players.each do |hash|
+  get_all_players
   
 
 
-binding.pry   
+  
 end
 
  
