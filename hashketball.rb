@@ -211,8 +211,8 @@ def player_stats(player_name)
 end
 end
 
-def big_shoe_rebounds(name)
-  big_shoe_player = shoe_size(name)
+def big_shoe_rebounds
+  
 binding.pry   
   
 end
