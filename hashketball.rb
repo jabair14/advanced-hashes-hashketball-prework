@@ -171,8 +171,7 @@ def shoe_size(player_to_find)
 
 end
 
-"Brook Lopez"
-binding.pry 
+
 
 def team_colors(team_name)
   #game_hash.each do |location, team_info|
