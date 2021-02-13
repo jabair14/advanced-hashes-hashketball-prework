@@ -211,11 +211,9 @@ def player_stats(player_name)
 end
 end
 
-def big_shoe_rebounds
-  get_all_players
+def big_shoe_rebounds(name)
+  big_shoe_player = shoe_size(name)
   
-
-
   
 end
 
