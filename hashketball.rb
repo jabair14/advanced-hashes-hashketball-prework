@@ -210,7 +210,7 @@ end
 end
 
 def big_shoe_rebounds
-  get_all_players.each do |hash|
+  get_all_players.find do |hash|
   
 
 
