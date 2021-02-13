@@ -211,8 +211,8 @@ def player_stats(player_name)
 end
 end
 
-def big_shoe_rebounds(name)
-  return get_all_players(name)[:home]
+def big_shoe_rebounds
+  return get_all_players(shoe_size)
 
 #binding.pry   
   
