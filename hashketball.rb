@@ -212,7 +212,7 @@ end
 end
 
 def big_shoe_rebounds
-  return get_all_players
+   get_all_players
 
 #binding.pry   
   
